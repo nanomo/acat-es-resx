@@ -217,31 +217,31 @@
     <value>------------- NO HAY VENTANAS ACTIVAS -------------</value>
   </data>
   <data name="NoFilesFound" xml:space="preserve">
-    <value>------------- NO FILES FOUND -------------</value>
+    <value>------------- NO SE ENCONTRARON ARCHIVOS -------------</value>
   </data>
   <data name="None" xml:space="preserve">
-    <value>None</value>
+    <value>Ninguno</value>
   </data>
   <data name="NoProgramAssociatedWithFile" xml:space="preserve">
-    <value>No program associated with file. Open anyway?</value>
+    <value>No hay programas asociados al archivo.Desea abrirlo de todas maneras?</value>
   </data>
   <data name="Notepad" xml:space="preserve">
     <value>Notepad</value>
     <comment>Set this to the title of the Notepad application window.  It is displayed in the titlebar of Notepad.  If it says "Notepad" in English, don't translate this string.</comment>
   </data>
   <data name="OpenFileQ" xml:space="preserve">
-    <value>Open {0}?</value>
+    <value>Abrir {0}?</value>
     <comment>{0}is the name of the file to open</comment>
   </data>
   <data name="PageNofM" xml:space="preserve">
-    <value>Page {0} of {1}</value>
+    <value>Página {0} de {1}</value>
     <comment>{0} is the current page number and {1} is the total number of pages</comment>
   </data>
   <data name="PhotoViewer" xml:space="preserve">
-    <value>Photo Viewer</value>
+    <value>Visor de Fotos</value>
   </data>
   <data name="PhrasesListEmpty" xml:space="preserve">
-    <value>-------- PHRASES LIST EMPTY --------</value>
+    <value>-------- LISTA DE FRASES --------</value>
   </data>
   <data name="PleaseEnterAnAbbreviation" xml:space="preserve">
     <value>Please enter an abbreviation!</value>
