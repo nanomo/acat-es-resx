@@ -244,50 +244,50 @@
     <value>-------- LISTA DE FRASES --------</value>
   </data>
   <data name="PleaseEnterAnAbbreviation" xml:space="preserve">
-    <value>Please enter an abbreviation!</value>
+    <value>Por favor, ingrese una abreviatura!</value>
   </data>
   <data name="QuickSearch" xml:space="preserve">
-    <value>Quick Search</value>
+    <value>Búsqueda Rápida</value>
   </data>
   <data name="SaveAbbreviationAndQuit" xml:space="preserve">
-    <value>Save Abbreviation and Quit?</value>
+    <value>Guardar Abreviatura y Salir?</value>
   </data>
   <data name="SearchTextEmpty" xml:space="preserve">
-    <value>Search text is empty.</value>
+    <value>Texto de búsqueda vacío.</value>
   </data>
   <data name="SendSpeechControlSequence" xml:space="preserve">
-    <value>Send speech control sequence?</value>
+    <value>Enviar secuencia de control de voz?</value>
   </data>
   <data name="SetAll" xml:space="preserve">
-    <value>Set All?</value>
+    <value>Establecer Todos?</value>
   </data>
   <data name="SetParaMode" xml:space="preserve">
-    <value>Set Paragraph Mode?</value>
+    <value>Configurar el Modo de Párrafo?</value>
   </data>
   <data name="SetSentenceMode" xml:space="preserve">
-    <value>Set Sentence Mode?</value>
+    <value>Configurar el Modo de Sentencia?</value>
   </data>
   <data name="SetVolumeTo" xml:space="preserve">
-    <value>Set volume to {0}?</value>
+    <value>Configurar volúmen a {0}?</value>
     <comment>{0} is the volume setting</comment>
   </data>
   <data name="ShowDesktop" xml:space="preserve">
-    <value>Show Desktop</value>
+    <value>Mostrar escritorio</value>
   </data>
   <data name="SortOrderAlphabetical" xml:space="preserve">
-    <value>Sort Order:  ALPHABETICAL</value>
+    <value>Ordenamiento:  ALFABÉTICO</value>
   </data>
   <data name="SortOrderChronological" xml:space="preserve">
-    <value>Sort Order:  CHRONOLOGICAL</value>
+    <value>Ordenamiento:  CRONOLÓGICO</value>
   </data>
   <data name="SortOrderReverseAlphabetical" xml:space="preserve">
-    <value>Sort Order:  REVERSE ALPHABETICAL</value>
+    <value>Ordenamiento:  ALFABÉTICO INVERSO</value>
   </data>
   <data name="SortOrderReverseChronological" xml:space="preserve">
-    <value>Sort Order:  REVERSE CHRONOLOGICAL</value>
+    <value>Ordenamiento:  CRONOLÓGICO INVERSO</value>
   </data>
   <data name="Speak" xml:space="preserve">
-    <value>Speak</value>
+    <value>Hablar</value>
   </data>
   <data name="Speaking" xml:space="preserve">
     <value>SPEAKING</value>
